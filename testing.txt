@@ -1,9 +1,9 @@
 hello world ////
 chane: ->bug 1 fix
 
-change 2:-> login eh
+change 2  :-> login eh
 change 3:- made by team
 to test pull by teammate on file1
-
+chang6->cr2 by teamamte on repo
 
 
