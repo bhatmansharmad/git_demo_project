@@ -5,3 +5,4 @@ chang:-> by teammte for 7
 
 chang :->logout feature
 
+change to ceck half work
