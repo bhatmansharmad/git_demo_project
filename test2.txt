@@ -1,8 +1,9 @@
 welcome to git
 
 happy learning 
-chang:-> by teammte for 7
+chang1:-> by teammte for 7
 
-chang :->logout feature
+chang2:->logout feature
 
-change to ceck half work
+change3:-> to ceck half work
+to test push
